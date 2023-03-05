@@ -1,1 +1,23 @@
-sdsdsdsasdsdsdsda
+Country-Capital API
+
+1.What is Country-Capital API?
+The Country-Capital API is a simple RESTful API that takes a capital city name as input and returns the corresponding country name.
+This API can be useful in various applications where country information is required.
+
+2.Prerequisites:
+To set up a local dev environment for the Country-Capital API, you will need to have the following installed on your system:
+>Python 3.x
+>pip
+
+3.Contribution:
+If you want to contribute to this project, please follow the steps below:
+
+Fork this repository to your own GitHub account.
+Create a new branch for your changes.
+Make your changes and commit them to your branch.
+Push your changes to your fork.
+Create a pull request from your fork to this repository.
+We welcome any contributions, including bug fixes, new features, and improvements to documentation.
+
+4.License
+This project is licensed under the MIT License. See the LICENSE file for details.
